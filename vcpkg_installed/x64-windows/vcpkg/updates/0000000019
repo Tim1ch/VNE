@@ -1,0 +1,9 @@
+Package: boost-variant2
+Version: 1.82.0
+Port-Version: 2
+Depends: boost-assert, boost-config, boost-mp11, boost-vcpkg-helpers
+Architecture: x64-windows
+Multi-Arch: same
+Abi: 974706a44f7f6d7b42146fcc8e5d46a666b782634ce928f73d776a2606becbd6
+Description: Boost variant2 module
+Status: install ok installed

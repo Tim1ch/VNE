@@ -1,0 +1,9 @@
+Package: boost-system
+Version: 1.82.0
+Port-Version: 2
+Depends: boost-assert, boost-build:x64-windows, boost-config, boost-modular-build-helper:x64-windows, boost-throw-exception, boost-variant2, boost-vcpkg-helpers, boost-winapi, vcpkg-cmake:x64-windows
+Architecture: x64-windows-release
+Multi-Arch: same
+Abi: 669325a119aa76cb6bc936987c2708138cbf58e3e1619c14310f874f915acc9e
+Description: Boost system module
+Status: install ok installed

@@ -1,0 +1,17 @@
+x64-windows-release/
+x64-windows-release/include/
+x64-windows-release/include/GL/
+x64-windows-release/include/GL/gl.h
+x64-windows-release/include/GL/glu.h
+x64-windows-release/lib/
+x64-windows-release/lib/GlU32.Lib
+x64-windows-release/lib/OpenGL32.Lib
+x64-windows-release/lib/pkgconfig/
+x64-windows-release/lib/pkgconfig/glu.pc
+x64-windows-release/lib/pkgconfig/opengl.pc
+x64-windows-release/share/
+x64-windows-release/share/opengl/
+x64-windows-release/share/opengl/copyright
+x64-windows-release/share/opengl/usage
+x64-windows-release/share/opengl/vcpkg.spdx.json
+x64-windows-release/share/opengl/vcpkg_abi_info.txt

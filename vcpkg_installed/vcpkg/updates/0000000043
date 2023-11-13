@@ -1,0 +1,9 @@
+Package: boost-intrusive
+Version: 1.82.0
+Port-Version: 2
+Depends: boost-assert, boost-config, boost-container-hash, boost-move, boost-static-assert, boost-vcpkg-helpers
+Architecture: x64-windows-release
+Multi-Arch: same
+Abi: bcc01f9936af0470c58c6cb35b3f35e5c3a8187225667cf8b2f3cef49f99df84
+Description: Boost intrusive module
+Status: install ok installed

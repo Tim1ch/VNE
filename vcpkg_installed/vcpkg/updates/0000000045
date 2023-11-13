@@ -1,0 +1,9 @@
+Package: boost-container
+Version: 1.82.0
+Port-Version: 2
+Depends: boost-assert, boost-build:x64-windows, boost-config, boost-intrusive, boost-modular-build-helper:x64-windows, boost-move, boost-static-assert, boost-vcpkg-helpers, vcpkg-cmake:x64-windows
+Architecture: x64-windows-release
+Multi-Arch: same
+Abi: d33ccabdce4f841db6b2b9c9a6ceb08698c6137e70dbd238a098b0dca36ef399
+Description: Boost container module
+Status: install ok installed

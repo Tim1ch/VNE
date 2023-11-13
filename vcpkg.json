@@ -1,0 +1,8 @@
+{
+    "name" : "salty-story",
+    "version" : "0.1.0",
+    "dependencies" : [
+        "sfml",
+        "boost-json"
+    ]
+}

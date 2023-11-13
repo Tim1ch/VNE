@@ -1,0 +1,2 @@
+C:/Users/ichigo/source/repos/salt-story/vcpkg_installed/vcpkg/blds/detect_compiler/x64-windows-release-rel/CMakeFiles/edit_cache.dir
+C:/Users/ichigo/source/repos/salt-story/vcpkg_installed/vcpkg/blds/detect_compiler/x64-windows-release-rel/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,8 @@
+Package: libflac
+Version: 1.4.2
+Depends: libogg, vcpkg-cmake, vcpkg-cmake-config
+Architecture: x64-windows
+Multi-Arch: same
+Abi: 8cbea1325a3fa4210581a58537f7ca08da6842aef8612ffb1e51faa074ec72de
+Description: Library for manipulating FLAC files
+Status: install ok installed
